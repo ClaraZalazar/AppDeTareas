@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Hacer mate",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Hacer TP",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Estudiar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Desarrollar app de Concesionarias",
+    "estado": "pendiente"
+  }
+]
